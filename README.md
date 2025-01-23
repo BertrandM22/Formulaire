@@ -1,10 +1,6 @@
         ✨ Exercice React : Formulaire avec Validation et Affichage des Données Soumises ✨
 
-        
-        
-        
-        
-![preview](assets\preview.png)
+![preview](assets/preview.png)
 
 ## ✏️ Description
 Ce projet a consisté à créer un formulaire en ReactJS avec des validations dynamiques pour vérifier que les informations saisies respectent les bonnes conditions avant la soumission. Une fois validé, les données saisies sont affichées sous le formulaire pour permettre à l'utilisateur de voir un récapitulatif des informations soumises. Ce projet a été réalisé avec React et Vite, offrant un environnement de développement rapide et moderne pour créer des applications web performantes. Cet exercice permet de maîtriser la gestion de l'état dans React, la validation des formulaires en temps réel, et l'affichage dynamique des données une fois soumises.

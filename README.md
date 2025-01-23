@@ -35,15 +35,19 @@ Le formulaire a été conçu pour offrir une expérience fluide et réactive, av
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
 
-
+```
 git clone https://github.com/BertrandM22/Formulaire.git
 cd reactFormProject
+```
 2. Installer les dépendances :
-
+```
 npm install
-
+```
 3. Lancer le projet avec Vite :
+```
 npm run dev
+```
 
-3. Ouvrir le projet :
+4. Ouvrir le projet :
+   
 Ouvre le fichier http://localhost:5173 dans ton navigateur préféré pour voir le formulaire en action.
